@@ -1,4 +1,8 @@
 justfire-v0.5
 =============
 
-finally with bugs sqaushed?
+finally with bugs sqaushed
+
+THEY ARE TWO FILES COMING IN,ONE WILL BE A PRECOMPILED FOR PEOPLE WHOSE JAVA IS NOT ABLE TO DO IT!
+
+OTHER IS A NORMAL 9 PAC .JAVA!
